@@ -5,7 +5,7 @@
   <link href="http://nasokin.github.io/atom.xml" rel="self"/>
   
   <link href="http://nasokin.github.io/"/>
-  <updated>2020-07-30T14:04:15.484Z</updated>
+  <updated>2020-07-30T14:07:20.697Z</updated>
   <id>http://nasokin.github.io/</id>
   
   <author>
@@ -20,10 +20,10 @@
     <link href="http://nasokin.github.io/2020/08/01/high-school-nightmare/"/>
     <id>http://nasokin.github.io/2020/08/01/high-school-nightmare/</id>
     <published>2020-07-31T16:00:00.000Z</published>
-    <updated>2020-07-30T14:04:15.484Z</updated>
+    <updated>2020-07-30T14:07:20.697Z</updated>
     
-    <content type="html"><![CDATA[<a id="more"></a>
-<p>前略。</p>
+    <content type="html"><![CDATA[<p>前略。</p>
+<a id="more"></a>
 <p>八月元日，我想，恭喜妳，中學時代終於結束了，接下來就是到新世界去了。</p>
 <p>也許我仍然被屏蔽或者被當作 spam ，也許讓妳想起想要讓它過去的過去，但我接下來要說「無所謂我根本不在乎」，我現在要給我自己的九百天噩夢一個了結，接下來的並不建議閱讀以避免壞了好心情。</p>
 <hr>
@@ -46,10 +46,7 @@
     
     <summary type="html">
     
-      &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;p&gt;前略。&lt;/p&gt;
-&lt;p&gt;八月元日，我想，恭喜妳，中學時代終於結束了，接下來就是到新世界去了。&lt;/p&gt;
-&lt;p&gt;也許我仍然被屏蔽或者被當作 spam ，也許讓妳想起想要讓它過去的過去，但我接下來要說「無所謂我根本不在乎」，我現在要給我自己的九百
+      &lt;p&gt;前略。&lt;/p&gt;
     
     </summary>
     
